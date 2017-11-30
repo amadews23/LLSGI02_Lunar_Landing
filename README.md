@@ -31,7 +31,7 @@ Todas las imágenes han sido optimizadas con http://tinypng.com.
 ### Enlaces:
 Estos son los enlaces para ver los resultados:
   
-  https://rawgit.com/amadews23/LLSGI02_Lunar_Landing/minificada/index-pc.html
+  https://rawgit.com/amadews23/LLSGI02_Lunar_Landing/minimificada/index-pc.html
 
-  https://rawgit.com/amadews23/LLSGI02_Lunar_Landing/minificada/index-mob.html
+  https://rawgit.com/amadews23/LLSGI02_Lunar_Landing/minimificada/index-mob.html
 
