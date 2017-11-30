@@ -10,11 +10,12 @@ El proyecto se compone de:
 La versión de móbil se diferencia:
   * En el archivo .html:  
     -En que he quitado texto, parte del texto de la izquierda y sólo dejando los iconos en el menú.   
-    -He añadido la siguente linea en el head:`<meta name=viewport content="width=device-width, initial-scale=1">`
+    -He añadido la siguente linea en el head:`<meta name=viewport content="width=device-width, initial-scale=1">`  
+    -La imagen de la nave es otra más pequeña.
   * En el archivo .css:  
     -El texto lo he hecho más grande.  
-    -La imagen de la nave es más pequeña  
     -He reducido de tamaño los "div" de la izquierda y derecha y ensanchado el central.
+
 
 ### Las imágenes
 Las imágenes del sprite del panel de la izquierda proceden de imágenes descargadas de http://openclipart.com y modificadas por mi. He usado el programa Inkscape para cambiar los colores y quitar elementos del dibujo. Estaban en formato vectorial (.svg).
