@@ -3,7 +3,7 @@
 
 
 ### El proyecto se compone de:
-* Dos archivos .html. 
+* Cuatro archivos .html. 
 * Una carpeta css/ con dos archivos .css. 
 * Una carpeta img/ que contiene siete imágenes en png.
 
