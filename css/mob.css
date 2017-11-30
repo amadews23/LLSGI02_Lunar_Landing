@@ -70,6 +70,6 @@ b{
     height: 50px;
     background: url(../img/menu_sprite.png) 60px -120px;
 }
-#nave{margin-left:40%;text-align:center;position:fixed;}
+#nave{margin-left:25%;text-align:center;position:fixed;}
 #nave img{height:100%;}
 
