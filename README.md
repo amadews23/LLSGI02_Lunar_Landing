@@ -2,12 +2,15 @@
 ## Primera parte del desarrollo de la aplicación "Lunar Landing". 
 
 
-El proyecto se compone de dos archivos .html ,dos .css , dos carpetas img/ y css/ .Hay una versión para ordenador y otra para móbil.
+El proyecto se compone de:
+* Dos archivos .html. 
+* Una carpeta css/ con dos archivos .css. 
+* Una carpeta img/ que contiene siete imágenes en png.
 
 La versión de móbil se diferencia:
   En el archivo .html:
   En que he quitado texto, parte del texto de la izquierda y sólo dejando los iconos en el menú. 
-  He añadido la siguente linea en el head: **_<meta name=viewport content="width=device-width, initial-scale=1">_**    
+  He añadido la siguente linea en el head: <meta name=viewport content="width=device-width, initial-scale=1">    
   En el archivo .css:
   El texto lo he hecho más grande.
   La imagen de la nave es más pequeña 
