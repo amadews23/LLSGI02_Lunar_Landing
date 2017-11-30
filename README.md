@@ -8,8 +8,8 @@ El proyecto se compone de:
 * Una carpeta img/ que contiene siete imágenes en png.
 
 La versión de móbil se diferencia:
-  En el archivo .html:
-  En que he quitado texto, parte del texto de la izquierda y sólo dejando los iconos en el menú. 
+  * En el archivo .html:
+  ** En que he quitado texto, parte del texto de la izquierda y sólo dejando los iconos en el menú. 
   He añadido la siguente linea en el head: <meta name=viewport content="width=device-width, initial-scale=1">    
   En el archivo .css:
   El texto lo he hecho más grande.
