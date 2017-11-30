@@ -1,4 +1,4 @@
-# LLSGI02_Lunar_Landing
+# LLSGI02_Lunar_Landing Minificada Branch
 ## Primera parte del desarrollo de la aplicación "Lunar Landing". 
 
 
