@@ -8,16 +8,16 @@ El proyecto se compone de:
 * Una carpeta img/ que contiene siete imágenes en png.
 
 La versión de móbil se diferencia:
-  * En el archivo .html:
-  ** En que he quitado texto, parte del texto de la izquierda y sólo dejando los iconos en el menú. 
-  He añadido la siguente linea en el head: <meta name=viewport content="width=device-width, initial-scale=1">    
-  En el archivo .css:
-  El texto lo he hecho más grande.
-  La imagen de la nave es más pequeña 
-  He reducido de tamaño los "div" de la izquierda y derecha y ensanchado el central.
+  * En el archivo .html:  
+    -En que he quitado texto, parte del texto de la izquierda y sólo dejando los iconos en el menú.   
+    -He añadido la siguente linea en el head: <meta name=viewport content="width=device-width, initial-scale=1">    
+  * En el archivo .css:
+    -El texto lo he hecho más grande.
+    -La imagen de la nave es más pequeña 
+    -He reducido de tamaño los "div" de la izquierda y derecha y ensanchado el central.
 
 ### Las imágenes
-La s imágenes del sprite del panel de la izquierda proceden de imágenes descargadas de http://openclipart.com y modificadas. He usado el programa Inkscape para cambiar los colores y quitar elementos del dibujo. Estaban en formato vectorial (.svg).
+Las imágenes del sprite del panel de la izquierda proceden de imágenes descargadas de http://openclipart.com y modificadas. He usado el programa Inkscape para cambiar los colores y quitar elementos del dibujo. Estaban en formato vectorial (.svg).
 
 La nave procede de un dibujo vectorial que tengo hecho por mi desde hace tiempo. Lo dibujé con Inkscape y adapté y modifiqué con Gimp. La nave para la versión de la página para el móbil es un 25% más pequeña. 
 
