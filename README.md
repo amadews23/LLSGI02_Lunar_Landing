@@ -2,7 +2,7 @@
 ## Primera parte del desarrollo de la aplicación "Lunar Landing". 
 
 
-El proyecto se compone de:
+### El proyecto se compone de:
 * Dos archivos .html. 
 * Una carpeta css/ con dos archivos .css. 
 * Una carpeta img/ que contiene siete imágenes en png.
@@ -28,6 +28,7 @@ La imagen del fondo procede de https://www.pexels.com/photo/astronomy-dark-eveni
 
 Todas las imágenes han sido optimizadas con http://tinypng.com.  
 
+### Enlaces:
 Estos son los enlaces para ver los resultados:
   
   https://rawgit.com/amadews23/LLSGI02_Lunar_Landing/master/index-pc.html
