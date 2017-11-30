@@ -11,9 +11,9 @@ La versión de móbil se diferencia:
   * En el archivo .html:  
     -En que he quitado texto, parte del texto de la izquierda y sólo dejando los iconos en el menú.   
     -He añadido la siguente linea en el head: <meta name=viewport content="width=device-width, initial-scale=1">    
-  * En el archivo .css:
-    -El texto lo he hecho más grande.
-    -La imagen de la nave es más pequeña 
+  * En el archivo .css:  
+    -El texto lo he hecho más grande.  
+    -La imagen de la nave es más pequeña  
     -He reducido de tamaño los "div" de la izquierda y derecha y ensanchado el central.
 
 ### Las imágenes
