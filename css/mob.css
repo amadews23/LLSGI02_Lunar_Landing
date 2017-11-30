@@ -1,9 +1,9 @@
 body,html{height:100%;padding:0px;margin:0px}
 body{font-size:4vw; background:url("../img/background.png") no-repeat center center fixed;  background-size: cover; }
 
-.izquierda{width:25%;float:left; margin-top:15px;margin-left:1%;color:red;}
+.izquierda{width:23%;float:left; margin-top:15px;margin-left:1%;color:red;}
 .centro{width:47%;height:90%;float:left; margin-top:15px;margin-left:1%;}
-.derecha{width:25%;float:right;margin-left:75%;position:fixed;margin-top:15px;}
+.derecha{width:23%;float:right;margin-left:75%;position:fixed;margin-top:15px;}
 
 .pie{height:10%;width:100%;position:fixed;bottom:0px;background:url("../img/background2.png")}
 
